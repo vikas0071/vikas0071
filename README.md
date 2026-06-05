@@ -106,10 +106,11 @@ Contributed full-stack to an enterprise AI platform at LeewayHertz. Built React.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vikas0071&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikas0071&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0071&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vikas0071&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
+![](https://streak-stats.demolab.com/?user=vikas0071&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0071&theme=dark&hide_border=false&layout=compact&langs_count=8)
 ---
 
 ### ✍️ Random Dev Quote
