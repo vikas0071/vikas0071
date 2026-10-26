@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Vikas%20Bishnoi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Integrations&descAlignY=56&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Vikas%20Bishnoi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Client%20Solutions&descAlignY=56&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Swift+%7C+SwiftUI+%7C+UIKit+%E2%80%94+3%2B+Years+iOS;React+%7C+Django+%7C+Python+%E2%80%94+Full-Stack;AI+Integrations+%7C+OpenAI+%7C+LLM+Pipelines;99.8%25+Crash-Free+%7C+4.7%E2%98%85+App+Store" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React.js+%7C+Django+%7C+Python;Full-Stack+Engineering+%7C+3%2B+Years;AI+Agents+%7C+LLM+Integrations;REST+APIs+%7C+PostgreSQL+%7C+SQL;Enterprise+AI+%7C+Workflow+Automation" alt="Typing SVG" />
 
 </div>
 
@@ -10,97 +10,172 @@
 
 ## 💫 About Me
 
-🔭 **What I've built**
-Most recently at **LeewayHertz (The Hackett Group Company)** — working full-spectrum: **Swift/SwiftUI** on iOS, **Kotlin** on Android, **Flutter** cross-platform, **React.js** frontend, **Django + Python** backend, **PostgreSQL** databases, and **AI agent pipelines** using OpenAI. Part of the team behind the **IBM × The Hackett Group** enterprise AI partnership that rolled out AI XPLR™ at scale globally.
+🔭 **What I've Built**
 
-📱 **iOS — My Primary Stack**
-3+ years shipping production iOS apps. Delivered **99.8% crash-free sessions** on a global travel platform (**Cruise Finder by iCruise**), drove a **25% increase in active user engagement**, built a reusable UIKit component library that cut feature dev time by **15%**, and launched an AI-powered kids app to **1,000+ downloads + 4.7★** App Store rating in month one.
+Full Stack Software Engineer with 3+ years of experience building web applications, backend services, enterprise AI products, and intelligent automation workflows. At **LeewayHertz Technologies (The Hackett Group engagement)**, I contributed to AI XPLR™, working across React.js frontend development, Django/Python backend services, PostgreSQL databases, and AI agent pipelines as part of the IBM × The Hackett Group enterprise partnership.
 
-🌐 **Full-Stack — My Second Language**
-Built and maintained full-stack features for an enterprise AI platform: React.js frontend, Django/Python backend, RESTful APIs, PostgreSQL schema design, JWT auth, and AI agent pipelines that automated enterprise-scale workflows.
+🌐 **Full-Stack Development**
 
-👯 **Looking to collaborate on**
-AI-integrated mobile apps, open-source iOS/Flutter projects, or full-stack products at the intersection of React + Django + Python. If you're building something where mobile meets AI — I'm in.
+Experienced in developing end-to-end web solutions using React.js, JavaScript, Python, Django, Django REST Framework, and SQL. I enjoy turning business requirements into reliable, scalable applications with clean architecture, efficient APIs, and maintainable code.
 
-🌱 **Currently learning**
-Swift Macros, SwiftData, advanced prompt engineering for production AI agents, visionOS / Apple Vision Pro, on-device ML with Core ML, and scaling Django + PostgreSQL at enterprise level.
+🤖 **AI Engineering & Integrations**
 
-💬 **Ask me about**
-Swift / SwiftUI / UIKit, Kotlin Android, Flutter, React.js, Django REST APIs, PostgreSQL schema design, integrating OpenAI / LLMs into production apps, AI agent pipelines, MVVM + Clean Architecture, and shipping apps from 0-to-1 on the App Store.
+Worked on enterprise AI products involving LLM integration, AI agents, prompt engineering, workflow automation, knowledge bases, and agentic pipelines. Experienced with AI-assisted development tools and integrating AI capabilities into practical business workflows.
 
-🚀 **Open to new opportunities**
-Actively looking for **iOS Developer** or **Full-Stack / Mobile Engineer** roles — Bangalore, Gurugram, or Remote. Available immediately.
+🗄️ **Backend & Database Engineering**
 
-⚡ **Fun fact**
-Swift → Kotlin → Flutter → React → Django → AI agent pipelines. All in production. All in 3 years. One stack was never enough. 🚀
+Built and integrated RESTful APIs, worked with JWT authentication, and contributed to PostgreSQL schema design, database migrations, data modeling, and query optimization.
+
+👯 **Looking to Collaborate On**
+
+AI-powered web applications, enterprise SaaS platforms, full-stack products, workflow automation systems, and LLM-integrated solutions.
+
+🌱 **Currently Exploring**
+
+Advanced AI agent architectures, RAG implementations, prompt engineering for production AI systems, scalable Django applications, and PostgreSQL performance optimization.
+
+💬 **Ask Me About**
+
+React.js, Python, Django, Django REST Framework, REST APIs, PostgreSQL, MySQL, SQL, AI agents, LLM integrations, prompt engineering, workflow automation, multi-tenant architecture, and enterprise AI solutions.
+
+🚀 **Open to New Opportunities**
+
+Interested in **Full Stack Engineer**, **Python Developer**, **AI Engineer**, and **Forward Deployed Engineer** roles where I can combine software engineering, AI integration, and client-focused problem-solving.
+
+⚡ **My Approach**
+
+Understand the problem → Design the solution → Build the product → Integrate AI → Deploy and improve.
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Highlights
 
-| 🎯 Metric | 💥 Result |
+| 🎯 Area | 💥 Highlights |
 |---|---|
-| Crash-Free Sessions (Production iOS) | **99.8%** sustained in production |
-| User Engagement Uplift | **+25%** on global travel platform |
-| App Store Launch (Month 1) | **1,000+ downloads · 4.7★ rating** |
-| Dev Time Reduction | **-15%** via reusable UIKit component library |
-| AI Session Retention Boost | **+20%** via ChatGPT 3.5 API integration |
-| Crash Rate Reduction | **-18%** through profiling + refactoring |
-| Engineering Hours Saved (Weekly) | **20+ hrs/week** via AI workflow automation |
-| Enterprise Partnership | **IBM × The Hackett Group** AI platform delivery |
+| Full-Stack Engineering | React.js, Django, Python, and REST APIs |
+| Enterprise AI | Contributed to AI XPLR™ platform development |
+| AI Agent Pipelines | Automated workflows and enterprise research processes |
+| Database Engineering | PostgreSQL schema design, migrations, and query optimization |
+| API Development | RESTful APIs, third-party integrations, and JWT authentication |
+| AI-Assisted Engineering | Claude, Cursor, GitHub Copilot, and OpenAI Codex |
+| Client-Facing Delivery | Requirement gathering, rapid prototyping, and production support |
+| Enterprise Collaboration | IBM × The Hackett Group partnership |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 Cruise Finder by iCruise
-> **Swift · SwiftUI · MVVM · REST APIs · Firebase · Core Data**
-
-Global cruise travel platform — real-time booking, cruise discovery, dynamic filtering, and AI assistant integration. Delivered smooth UX through SwiftUI animations, deep-linked navigation, and Core Data offline caching. Drove **25% user engagement growth** and maintained **99.8% crash-free** production stability.
-
----
-
-### 🧮 Math Quiz Game for Kids
-> **UIKit · ChatGPT API · Core Data · XCTest · Fastlane**
-
-AI-powered educational iOS app — dynamic quiz generation, progress tracking, and personalized learning flows using ChatGPT 3.5 API. Achieved **1,000+ downloads + 4.7★ App Store rating in month one**. Zero critical crashes post-launch.
-
----
-
-### 🤖 AI XPLR™ (Enterprise AI Platform)
+### 🤖 AI XPLR™ — Enterprise AI Platform
 > **React.js · Django · Python · PostgreSQL · REST APIs · AI Agents**
 
-Contributed full-stack to an enterprise AI platform at LeewayHertz. Built React.js frontend features, Django REST API endpoints, PostgreSQL schema migrations, and automated AI agent pipelines for enterprise clients. Part of the **IBM × The Hackett Group** global rollout.
+Contributed to an enterprise AI platform at LeewayHertz Technologies. Worked across frontend development, backend services, database architecture, API integrations, and AI agent pipelines as part of an enterprise engagement involving IBM and The Hackett Group.
 
----
+**Key Contributions**
+- Developed frontend features using React.js.
+- Built backend functionality using Django and Python.
+- Designed and integrated RESTful APIs.
+- Worked on PostgreSQL schemas, migrations, and query optimization.
+- Contributed to AI-powered industry-opportunity discovery workflows.
+- Supported client-specific requirements and production troubleshooting.
 
-## 🌐 Socials
+### 🧠 AI Agent Pipelines & Workflow Automation
+> **Python · LLM Integration · Prompt Engineering · AI Agents · Workflow Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-bishnoi-9ba11b179/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasbishnoi82289@gmail.com)
+Contributed to automated AI workflows for enterprise use cases, including industry-opportunity discovery and research automation.
+
+**Key Contributions**
+- Worked on AI agent pipelines for automated information processing.
+- Contributed to workflow automation for enterprise requirements.
+- Explored prompt engineering and LLM-powered workflows.
+- Supported integration between application services and AI capabilities.
+- Improved workflows iteratively based on stakeholder feedback.
+
+### 🌐 Full-Stack Web Solutions
+> **React.js · Django REST Framework · Python · SQL · PostgreSQL**
+
+Developed and maintained full-stack application features connecting frontend interfaces with backend services and relational databases.
+
+**Key Contributions**
+- Built web application features using React.js.
+- Implemented backend logic using Python and Django.
+- Developed REST APIs for frontend-backend communication.
+- Worked on database schemas, migrations, and data modeling.
+- Integrated third-party services and authentication mechanisms.
+- Supported debugging, performance improvements, and production maintenance.
 
 ---
 
 ## 💻 Tech Stack
 
-**📱 iOS & Mobile**
+**🌐 Frontend Development**
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**🌐 Web & Full-Stack**
+**⚙️ Backend Development**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**🗄️ Databases & Cloud**
+**🗄️ Databases & Data**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🤖 AI & Agents**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge) ![LLM Integration](https://img.shields.io/badge/LLM%20Integration-1F6FEB?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG%20Concepts-008080?style=for-the-badge)
 
 **🛠️ Tools & DevOps**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🤖 AI & Dev Tools**
+**🤖 AI-Assisted Development**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🧩 Core Skills
+
+- **Languages:** Python, JavaScript, SQL, Bash
+- **Frameworks:** React.js, Django, Django REST Framework
+- **API & Integration:** RESTful APIs, Third-Party API Integration, JWT Authentication
+- **Databases:** PostgreSQL, MySQL, SQLite, Django ORM
+- **Database Engineering:** Data Modeling, Schema Design, Query Optimization, Migrations, ETL Basics
+- **AI & LLMs:** LLM Integration, AI Agent Design, Prompt Engineering, RAG Concepts, Agentic Pipelines
+- **Architecture:** Microservices, Schema-Based Architecture, Multi-Tenant Architecture
+- **Tools:** Git, GitHub, Docker (Basics), CI/CD, Postman, Linux
+- **Delivery:** Solution Architecture, Requirement Scoping, Rapid Prototyping, Production Support
+- **Collaboration:** Customer Communication, Stakeholder Collaboration, Agile/Scrum, Technical Troubleshooting
+
+---
+
+## 💼 Professional Experience
+
+### LeewayHertz Technologies Pvt. Ltd. — The Hackett Group Engagement
+**Software Engineer – Full Stack & AI (Client-Embedded)**  
+*October 2023 – July 2026 · Hisar, India (Remote)*
+
+- Delivered full-stack features for AI XPLR™ using React.js, Django, and Python.
+- Worked with enterprise stakeholders to scope requirements and prototype solutions.
+- Designed and deployed RESTful APIs supporting AI-driven workflows.
+- Managed PostgreSQL schema design, migrations, data modeling, and query optimization.
+- Contributed to AI agent pipelines for industry-opportunity discovery.
+- Troubleshot production issues and adapted features to client-specific workflows.
+- Collaborated with product, design, and AI teams in Agile sprints.
+
+### AppRipe Technology Pvt. Ltd.
+**Software Engineer — Previous Mobile Experience Excluded from This Profile**  
+*January 2023 – September 2023*
+
+Earlier professional experience is omitted here to keep this profile focused on web development and AI engineering.
+
+---
+
+## 🎓 Education
+
+**Guru Jambheshwar University of Science and Technology**  
+Bachelor of Technology (B.Tech), Computer Science Engineering  
+2019 – 2022 · Hisar, India  
+GPA: 7.01/10
 
 ---
 
@@ -111,15 +186,13 @@ Contributed full-stack to an enterprise AI platform at LeewayHertz. Built React.
 ![](https://streak-stats.demolab.com/?user=vikas0071&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0071&theme=dark&hide_border=false&layout=compact&langs_count=8)
+
 ---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vikas0071&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
