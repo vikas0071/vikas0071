@@ -167,7 +167,6 @@ Developed and maintained full-stack application features connecting frontend int
 * Applied prompt engineering techniques and AI-assisted development to improve application workflows and support efficient problem-solving.  
 *January 2023 – September 2023*
 
-Earlier professional experience is omitted here to keep this profile focused on web development and AI engineering.
 
 ---
 
