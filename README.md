@@ -163,7 +163,8 @@ Developed and maintained full-stack application features connecting frontend int
 - Collaborated with product, design, and AI teams in Agile sprints.
 
 ### AppRipe Technology Pvt. Ltd.
-**Software Engineer — Previous Mobile Experience Excluded from This Profile**  
+**Software Engineer — * Worked with Node.js and Python to develop backend functionality and implement prompt engineering for AI-powered applications.
+* Applied prompt engineering techniques and AI-assisted development to improve application workflows and support efficient problem-solving.  
 *January 2023 – September 2023*
 
 Earlier professional experience is omitted here to keep this profile focused on web development and AI engineering.
